@@ -1,0 +1,25 @@
+.table-widget {
+    margin: 1em 0;
+    width: 100%;
+}
+
+.table {
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.class-max {
+    color: green;
+}
+
+.class-min {
+    color: yellow;
+}
+
+.visibility {
+    display: none;
+}
